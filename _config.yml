@@ -2,7 +2,6 @@
 title: 另一个世界
 SEOTitle: 菁小鲸的博客 | BY Blog
 header-img: img/背景.jpg
-email: lihuajing91@gmail.com
 description: "自己的小小世界"
 keyword: "菁小鲸, 杂记"
 url: "http://whalebaby.github.io"          # your host, for absolute URL
@@ -13,16 +12,6 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "放荡不羁爱自由 不撞南墙不回头"
 sidebar-avatar: /img/1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
-
-# SNS settings
-RSS: false
-# weibo_username:     lhuajing@hotmail.com
-zhihu_username:     lhuajing@hotmail.com
-github_username:    whalebaby
-
-
 
 
 
