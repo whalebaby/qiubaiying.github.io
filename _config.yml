@@ -1,10 +1,10 @@
 # Site settings
 title: 另一个世界
 SEOTitle: 菁小鲸的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/背景.jpg
 email: lihuajing91@gmail.com
-description: "Why there is a universe"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+description: "自己的小小世界"
+keyword: "菁小鲸, 杂记"
 url: "http://whalebaby.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -19,7 +19,7 @@ sidebar-avatar: /img/1.jpg      # use absolute URL, seeing it's used in both `/`
 # SNS settings
 RSS: false
 # weibo_username:     username
-zhihu_username:     username
+zhihu_username:     菁小鲸不会游泳
 github_username:    whalebaby
 
 
